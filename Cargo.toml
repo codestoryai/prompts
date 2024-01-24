@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "llm_client",
+    "llm_prompts",
+]

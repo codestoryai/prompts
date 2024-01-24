@@ -1,0 +1,15 @@
+[package]
+name = "llm_prompts"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+llm_client = { path = "../llm_client" }
+thiserror = "1.0.56"
+futures = "0.3.28"
+serde_json = "1.0.107"
+serde = { version = "1.0.188", features = ["derive"] }
+sqlx = { version = "0.7.2", features = ["sqlite", "migrate", "runtime-tokio-rustls", "chrono", "uuid"]}
+tokio = { version = "1.32.0", features = ["full"] }
