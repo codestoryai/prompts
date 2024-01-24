@@ -1,0 +1,12 @@
+/Users/skcd/scratch/prompts/target/debug/deps/tempfile-1cf0a3a594f9c025.rmeta: /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/lib.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/dir.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/error.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/file/mod.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/file/imp/mod.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/spooled.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/util.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/file/imp/unix.rs
+
+/Users/skcd/scratch/prompts/target/debug/deps/tempfile-1cf0a3a594f9c025.d: /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/lib.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/dir.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/error.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/file/mod.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/file/imp/mod.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/spooled.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/util.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/file/imp/unix.rs
+
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/lib.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/dir.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/error.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/file/mod.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/file/imp/mod.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/spooled.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/util.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/tempfile-3.9.0/src/file/imp/unix.rs:
