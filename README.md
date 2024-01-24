@@ -1,3 +1,6 @@
+[![](https://dcbadge.vercel.app/api/server/JEjtaVwyeX)](https://discord.gg/JEjtaVwyeX)
+
+
 
 ```
 
