@@ -1,0 +1,12 @@
+{
+  "db_name": "SQLite",
+  "query": "\n                    INSERT INTO llm_data (chat_messages, response, llm_type, temperature, max_tokens, event_type)\n                    VALUES ($1, $2, $3, $4, $5, $6)\n                    ",
+  "describe": {
+    "columns": [],
+    "parameters": {
+      "Right": 6
+    },
+    "nullable": []
+  },
+  "hash": "08c2149206ecf5f799ce8526b2fdc75a6e9dbd96776b176fab0b8ef5328a94a2"
+}

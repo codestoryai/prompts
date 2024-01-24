@@ -1,0 +1,9 @@
+/Users/skcd/scratch/prompts/target/debug/deps/system_configuration-0819d8f221ed9c98.rmeta: /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/lib.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/dynamic_store.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_configuration.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_reachability.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/preferences.rs
+
+/Users/skcd/scratch/prompts/target/debug/deps/system_configuration-0819d8f221ed9c98.d: /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/lib.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/dynamic_store.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_configuration.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_reachability.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/preferences.rs
+
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/lib.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/dynamic_store.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_configuration.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/network_reachability.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/system-configuration-0.5.1/src/preferences.rs:

@@ -1,0 +1,15 @@
+/Users/skcd/scratch/prompts/target/debug/deps/onig-94b78084345854b4.rmeta: /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/lib.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/buffers.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/find.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/flags.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/match_param.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/names.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/region.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/replace.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/syntax.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/tree.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/utils.rs
+
+/Users/skcd/scratch/prompts/target/debug/deps/onig-94b78084345854b4.d: /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/lib.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/buffers.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/find.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/flags.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/match_param.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/names.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/region.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/replace.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/syntax.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/tree.rs /Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/utils.rs
+
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/lib.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/buffers.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/find.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/flags.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/match_param.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/names.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/region.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/replace.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/syntax.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/tree.rs:
+/Users/skcd/.cargo/registry/src/index.crates.io-6f17d22bba15001f/onig-6.4.0/src/utils.rs:
